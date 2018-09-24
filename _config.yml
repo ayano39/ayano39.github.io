@@ -81,3 +81,12 @@ deploy:
   type: git
   repo: https://github.com/ayano39/ayano39.github.io.git
   branch: master
+
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
